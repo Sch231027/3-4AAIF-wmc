@@ -1,2 +1,4 @@
-# 3-4AAIF-wmc
-wmc unterichts material und code
+#wmc Materialien 3AAIF WS 2425
+
+Willkommen zur Webprogrammierung
+
